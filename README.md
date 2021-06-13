@@ -6,7 +6,7 @@ Using Python, SQLAlchemy, and Flask
 
 ## Results
 ![June Temp](Resources/June_Temp.png)
-![Dec Temp](Rescources/Dec_Temp.png)
+![Dec_Temp](Resources/Dec_Temp.png)
 
 ### - The average temperatures are 74.94 in June and 71.04 in December, and the standard deviations are 3.25 and 3.74.
 
